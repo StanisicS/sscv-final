@@ -1,0 +1,187 @@
+{
+  "basics": {
+    "name": "Stevan Stanisic",
+    "label": "Software Developer",
+    "picture": "https://gist.github.com/StanisicS/4cfeb7a22f40c7b937eb44d5e379471a/raw/8fea17e6acf7b23bfbba91b40e08cd8d5ef10ccc/ss.jpg",
+    "summary": "Skilled System Administrator with 3+ years of wide knowledge of Operating Systems & Terminal and Full Stack Developer who can build web and mobile apps from the ground up. I have experience working with clients as well as company work. Always committed to professional growth and improving skills.",
+    "website": "https://evansit.dev",
+    "email": "stevan.stanisic@outlook.com",
+    "phone": "+381 69 34 30 321",
+    "location": {
+      "city": "Belgrade",
+      "countryCode": "RS",
+      "region": "Serbia"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "url": "https://twitter.com/StanisicStevan",
+        "username": "StanisicStevan"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/stevan-stanisic/",
+        "username": "stevan-stanisic"
+      },
+      {
+        "url": "https://github.com/StanisicS",
+        "username": "StanisicS",
+        "network": "GitHub"
+      }
+    ]
+  },
+  "volunteer": [
+    {
+      "organization": "TermoNik",
+      "position": "Website",
+      "website": "http://termonik.rs/",
+      "startDate": "2019-12-17",
+      "endDate": "2019-12-27",
+      "summary": "Example client work, technologies used:",
+      "highlights": [
+        "Frontend: ReactJS / Gatsby, Material UI, GraphQL",
+        "Backend: Contentful (Headless CMS)",
+        "CDN: Netlify"
+      ]
+    },
+    {
+      "organization": "Korona SRB",
+      "position": "Mobile App",
+      "website": "https://github.com/StanisicS/korona_app",
+      "startDate": "2020-05-02",
+      "summary": "Example side project, technologies used:",
+      "highlights": [
+        "Frontend: Dart / Flutter, RESTful API, Firebase",
+        "Backend: GCP",
+        "CI/CD: GitHub Actions"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "endDate": "2014-12-12",
+      "startDate": "2013-02-12",
+      "area": "Information Technology (incomplete)",
+      "studyType": "Bachelors",
+      "institution": "The University of Belgrade"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML5 / JSX",
+        "CSS3 / Bootstrap / Styled Components",
+        "JavaScript / TypeScript",
+        "ReactJS / Gatsby",
+        "RESTful API / GraphQL / Firebase"
+      ],
+      "level": "Master",
+      "value": 100,
+      "name": "Front-End"
+    },
+    {
+      "keywords": [
+        "Node.js",
+        "Express.js",
+        ".NET Framework",
+        "ASP.NET",
+        "NuGet",
+        "WPF"
+      ],
+      "level": "Master",
+      "value": 100,
+      "name": "Back-End"
+    },
+    {
+      "keywords": [
+        "Dart",
+        "Flutter",
+        "React Native"
+      ],
+      "level": "Master",
+      "value": 100,
+      "name": "Mobile"
+    },
+    {
+      "keywords": [
+        "CRUD",
+        "MS SQL Server",
+        "MongoDB",
+        "Serverless"
+      ],
+      "level": "Fluent",
+      "value": 80,
+      "name": "DataBases"
+    },
+    {
+      "keywords": [
+        "Git",
+        "GitHub Actions",
+        "GitLab",
+        "GCP",
+        "Azure",
+        "Azure DevOps",
+        "Azure Functions",
+        "Doker",
+        "CI/CD"
+      ],
+      "level": "Fluent",
+      "value": 80,
+      "name": "Cloud & DevOps"
+    }
+  ],
+  "publications": [
+    {
+      "name": "MCSA: Office 365",
+      "publisher": "Microsoft",
+      "releaseDate": "2017-09-01",
+      "website": "https://cdn.cacher.io/attachments/u/3dqi5hrpsuyld/H8v-FQ_pPuTKj2V1UUfAJloW4LKePb-A/Certificate.png",
+      "summary": "Microsoft Certified Solution Associate"
+    },
+    {
+      "name": "PowerShell: Certificate of Completion",
+      "publisher": "Admin Training Center",
+      "releaseDate": "2019-02-13",
+      "website": "https://cdn.cacher.io/attachments/u/3dqi5hrpsuyld/TDD-VIgPYLuAag4GO57jEY98axB6r5Zg/atc_cert_2__Medium_.jpg",
+      "summary": "Trainer: Aleksandar Nikolic, Microsoft MVP"
+    }
+  ],
+  "work": [
+    {
+      "summary": "ITACET is Microsoft's gold partner and cloud solution provider.",
+      "website": "https://itacet.rs",
+      "company": "ITACET",
+      "pinned": true,
+      "location": "Bastovanska 1",
+      "position": "Microsoft Cloud Services Administrator",
+      "startDate": "2017-04-01",
+      "endDate": "2019-06-01",
+      "highlights": [
+        "Planning and implementing cloud onboarding solutions for new and potential clients",
+        "Manage and administer over 2500 user accounts and devices hosted on AzureAD",
+        "Provide technical support, responding to service requests and resolving issues",
+        "Workflow and infrastructure deployment automation with PowerShell"
+      ]
+    },
+    {
+      "highlights": [
+        "Started a Company"
+      ],
+      "summary": "My previous extensive knowledge of PowerShell (Object-Oriented) scripting language encouraged me to dive deeper into programming and helped my self-tough developer/entrepreneur growth.",
+      "website": "mailto:ss@evansit.dev",
+      "pinned": true,
+      "company": "EVANSIT (ss@evansit.dev)",
+      "position": "Freelance Software Developer",
+      "startDate": "2018-10-11"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "meta": {
+    "theme": "Eloquent"
+  }
+}
