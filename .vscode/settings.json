@@ -39,10 +39,6 @@
 			"titleBar.border": "#ff6633",
 			"menubar.selectionBorder": "#ff6633",
 			"menu.border": "#ff6633"
-		},
-		"activityBar.background": "#c2f990",
-		"activityBar.foreground": "#000",
-		"titleBar.activeBackground": "#23490B",
-		"titleBar.activeForeground": "#F3FCED"
+		}
 	}
 }

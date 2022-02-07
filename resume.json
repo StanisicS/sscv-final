@@ -3,9 +3,9 @@
     "name": "Stevan Stanisic",
     "label": "Software Developer",
     "picture": "https://gist.github.com/StanisicS/4cfeb7a22f40c7b937eb44d5e379471a/raw/8fea17e6acf7b23bfbba91b40e08cd8d5ef10ccc/ss.jpg",
-    "summary": "Skilled System Administrator with 3+ years of wide knowledge of Operating Systems & Terminal and Full Stack Developer who can build web and mobile apps from the ground up. I have experience working with clients as well as company work. Always committed to professional growth and improving skills.",
+    "summary": "Experienced IT System Administrator with 3+ years of wide knowledge of Operating Systems, Scripting & Terminal | Skilled Software Developer capable designing and building cross-platform (mobile, web, desktop) apps written in Dart/Flutter and JAMstack web apps using React/Next.js | Always committed to professional growth and improving skills",
     "website": "https://evansit.dev",
-    "email": "stevan.stanisic@outlook.com",
+    "email": "ss@evansit.dev",
     "phone": "+381 69 34 30 321",
     "location": {
       "city": "Belgrade",
@@ -49,11 +49,10 @@
       "position": "Mobile App",
       "website": "https://github.com/StanisicS/korona_app",
       "startDate": "2020-05-02",
+      "endDate": "2020-10-02",
       "summary": "Example side project, technologies used:",
       "highlights": [
-        "Frontend: Dart / Flutter, RESTful API, Firebase",
-        "Backend: GCP",
-        "CI/CD: GitHub Actions"
+        "Dart / Flutter, RESTful API, BLoC Pattern"
       ]
     }
   ],
@@ -69,11 +68,11 @@
   "skills": [
     {
       "keywords": [
-        "HTML5 / JSX",
-        "CSS3 / Bootstrap / Styled Components",
-        "JavaScript / TypeScript",
-        "ReactJS / Gatsby",
-        "RESTful API / GraphQL / Firebase"
+        "HTML5 / JSX / CSS3 / Tailwind CSS / Sass",
+        "JavaScript / ES6/ES2015 / TypeScript / jQuery",
+        "React / Redux / Gatsby / Next.js / JSON / YAML",
+        "RESTful API / GraphQL / Babel / webpack",
+        "Dart / Flutter / Firebase"
       ],
       "level": "Master",
       "value": 100,
@@ -82,36 +81,22 @@
     {
       "keywords": [
         "Node.js",
-        "Express.js",
-        ".NET Framework",
-        "ASP.NET",
-        "NuGet",
-        "WPF"
+        "NPM",
+        "Express.js"
       ],
-      "level": "Master",
-      "value": 100,
+      "level": "Intermediate",
+      "value": 60,
       "name": "Back-End"
     },
     {
       "keywords": [
-        "Dart",
-        "Flutter",
-        "React Native"
-      ],
-      "level": "Master",
-      "value": 100,
-      "name": "Mobile"
-    },
-    {
-      "keywords": [
         "CRUD",
-        "MS SQL Server",
         "MongoDB",
         "Serverless"
       ],
-      "level": "Fluent",
-      "value": 80,
-      "name": "DataBases"
+      "level": "Intermediate",
+      "value": 60,
+      "name": "DataBase"
     },
     {
       "keywords": [
@@ -148,7 +133,7 @@
   ],
   "work": [
     {
-      "summary": "ITACET is Microsoft's gold partner and cloud solution provider.",
+      "summary": "ITACET is Microsoft's gold partner and cloud solution provider",
       "website": "https://itacet.rs",
       "company": "ITACET",
       "pinned": true,
@@ -164,15 +149,45 @@
       ]
     },
     {
-      "highlights": [
-        "Started a Company"
-      ],
-      "summary": "My previous extensive knowledge of PowerShell (Object-Oriented) scripting language encouraged me to dive deeper into programming and helped my self-tough developer/entrepreneur growth.",
+      "highlights": [],
+      "summary": "My previous experience with PowerShell (Object-Oriented) scripting language and passion for coding encouraged me to dive deeper into programming and effect boosting my self-tough dev journey | As a freelance developer I`ve mostly work on building JAMstack web apps with in React/Next.js",
       "website": "mailto:ss@evansit.dev",
       "pinned": true,
-      "company": "EVANSIT (ss@evansit.dev)",
+      "company": "SELF-EMPLOYED",
       "position": "Freelance Software Developer",
-      "startDate": "2018-10-11"
+      "startDate": "2018-10-01",
+      "endDate": "2020-04-01"
+    },
+    {
+      "summary": "Goxee Dealer is a leading SaaS provider for car dealerships in the US and Canada, enabling them to manage their entire dealership operation easily",
+      "website": "https://www.goxeedealer.com/",
+      "company": "GOXEE DEALER CORP",
+      "pinned": true,
+      "location": "LA, USA (Remote)",
+      "position": "Mobile App Developer",
+      "startDate": "2020-10-01",
+      "endDate": "2021-03-01",
+      "highlights": [
+        "Design and developed messenger-like app used as a standalone project for the web and as in-app messaging system for the mobile app that is being in development and targeting its release for both Android and IOS, written in Dart / Flutter",
+        "Beside messenger, I have implemented push notifications using Firebase in-app messaging service, intro / tutorial screens with custom animations, and app localization currently supporting twenty-eight languages",
+        "Developed custom smart reply engine for mobile (Dart/Flutter) / chat bot engine for web (JavaScript/jQuery) that returns suggestions / answer based on user input, supporting all above languages"
+      ]
+    },
+    {
+      "summary": "LONDON MULTIGAMES LIMITED is an information technology and services company based out of Causton St, London, United Kingdom with office in Belgrade. Employed to develop online payment / wallet app (Android & IOS) for online payment solution client company based in Bristol, UK. Since they had an Angular web app in place that needed redesigning, I saw the opportunity to present the Flutter cross-platform capability feature and offered to completely rebuild the old Angular app in Flutter using the same codebase as the mobile one, so my role changed from mobile only to being responsible for the whole front end development part from the start, as such I`ll state the whole app development process in the phase-like fashion below",
+      "website": "http://www.londonmultigames.com/",
+      "company": "LONDON MULTIGAMES LTD",
+      "pinned": true,
+      "location": "Dositejeva 9, Belgrade, Serbia",
+      "position": "Mobile App Developer",
+      "startDate": "2021-03-01",
+      "highlights": [
+        "PHASE 1: UI - Since one of the app requirements was the ability of account separation on personal and business and the fact that I`m now dealing with multiple screen sizes I had to: create custom responsive layout for my views following given UI/UX design, modulate the features by account type each having its own views, widgets, and controllers directory for easier navigation and reusability",
+        "PHASE 2: Designing the app architecture (organizing folder structure, choosing the right set of tools for state management, DI, routing, etc.) - In my previous projects I`ve used few of the popular state management solutions (Provider, BLoC, Get) based on the app requirements and complexity, for this project I chose to go with Get because it comes with useful set off routing management tools handling the web specific navigation tasks such as dynamic URL links, deep linking, route middleware`s, etc., as well as most of my requirements with its reactive state management and DI system",
+        "PHASE 3: User Authentication - Old app used JWT mechanism for auth, for storing those values I have developed persistent storage solution that is using the flutter_secure_storage plugin on mobile (Keychain for iOS, KeyStore for Android) and shared_preferences (browser local storage) on the web, for storing key-value collections I am using the get_storage plugin that comes with Get",
+        "PHASE 4: APP FEATURES / MODULES - Filling my controllers with custom logic for managing state changes and creating methods for getting the corresponding data from the API for every feature / module (payments, transfer, top up, withdraw, templates, shops, reports, notifications, profile, etc.) respectively, adding final changes, testing, and polishing",
+        "PHASE 5: INTERNAL TESTING - Fixing bugs based on user input"
+      ]
     }
   ],
   "languages": [

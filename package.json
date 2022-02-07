@@ -1,0 +1,22 @@
+{
+  "name": "sscv-final",
+  "version": "1.0.0",
+  "description": "[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jsonresume/public?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)\r [![Build status](https://img.shields.io/github/workflow/status/jsonresume/resume-cli/Main)](https://github.com/jsonresume/resume-cli/actions)\r [![Dependency status](https://david-dm.org/jsonresume/resume-cli.svg)](https://david-dm.org/jsonresume/resume-cli)\r [![devDependency status](https://david-dm.org/jsonresume/resume-cli/dev-status.svg)](https://david-dm.org/jsonresume/resume-cli#info=devDependencies)\r [![npm package](https://badge.fury.io/js/resume-cli.svg)](https://www.npmjs.org/package/resume-cli)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StanisicS/sscv-final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StanisicS/sscv-final/issues"
+  },
+  "homepage": "https://github.com/StanisicS/sscv-final#readme",
+  "dependencies": {
+    "jsonresume-theme-eloquent": "^4.1.0"
+  }
+}
