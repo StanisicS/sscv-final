@@ -1,0 +1,20 @@
+[
+  {
+    "applyTo": "index.html",
+    "headers": [
+      {
+        "name": "strict-transport-security",
+        "value": "max-age=0"
+      }
+    ]
+  },
+  {
+    "applyTo": "*",
+    "headers": [
+      {
+        "name": "strict-transport-security",
+        "value": "max-age=0"
+      }
+    ]
+  }
+]
